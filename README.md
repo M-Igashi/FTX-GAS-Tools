@@ -12,7 +12,7 @@ In the file, there are two functions. KeepLending is the main function of this f
 - Input the ticker you would like to keep lending in `var coin = "BTC"`. ie. BTC for Bitcoin, USD for USD.
 - Run the function for testing.
 - You can copy KeepLending for multiple coin. Rename `function KeepLending(){` to `function KeepLending_USD(){` for example and paste just under the main function.
-- Go to Triger in the menu left hand side, and set 1 hour time driven triger for KeepLending functions you wish.
+- Go to Triger in the menu left hand side, and set 1h or 30min time driven triger for KeepLending functions you wish.
 - You can suspend the trigers in any time, so that execution is canceled and you can use accumulated asset within next hour timing.
 ## KeepStaking
 WIP. Due to georestriction of FTX API, I do not have workaround so far.
