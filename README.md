@@ -1,5 +1,5 @@
 # FTX tools in Google Apps Script
-Google Apps Scripts that keeps staking and lending max available funds in FTX.
+Google Apps Scripts that keep staking and lending max available funds in FTX.
 ## Motivation
 Compound yield is important to increase your money, but FTX staking and lending should be flexible according to your asset management and strategy. By using GAS triger, you can easily start/stop compound earning in console. The code is pure stand alone GAS, so that you do not need to import any 3rd party libraries or wrappers.
 # How to start 
