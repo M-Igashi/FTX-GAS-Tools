@@ -15,6 +15,6 @@ In the file, there are two functions. KeepLending is the main function of this f
 - Go to Triger in the menu left hand side, and set 1 hour time driven triger for KeepLending functions you wish.
 - You can suspend the trigers in any time, so that execution is canceled and you can use accumulated asset within next hour timing.
 ## KeepStaking
-WIP
+WIP. Due to georestriction of FTX API, I do not have workaround so far.
 # Donation
 SOL or SPL tonkens are welcome. Please send your pocket pennies to `FS1dcQnnfSnT2qY6FgxxafVCnhXhALeNzEkrwdTJVEXc` .
